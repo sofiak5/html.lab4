@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="stylelab3.css">
+</head>
+ 
+    <head>
+        <title>
+            Personal Portfolio
+        </title>
+    </head>
+    
+    <body>
+        <h1 style="color:rgb(135, 236, 167); background-color:rgb(0, 0, 0);">Sofia Kolta</h1>
+        <h3 style="color:rgb(237, 174, 225); background-color:rgb(53, 0, 139);">NJIT, sak29, Architecture Program</h3>
+        <p style="color:rgb(116, 11, 4);">So hiii! I'm Sofia and there really is no good way to describe myself. I simply exist within the restraints of my reality. Haha, just kidding, it is not that serious. Anyways, I am a Coptic Orthodox Christian, and I go to St. George and St. Shenouda Church. <br> To characterize myself more, let me tell you about my likes and dislikes. I absolutely love to read and sometimes I try my hand at writing. I love stickers for some strange reason. I love decorating my stuff with stickers, but then I get attached to my stickers, so I don't really use them that much. I guess I just collect them haha. Now onto what I hate. I hate mushrooms with a passion, they taste horrible. I also hate procrasination due to my tendency to do it 24/7. <br> And yeah, let me tell you about my family. I have two parental units that I love, and two younger siblings that I try to love. Haha, just kidding, I love them (I think). But yeah, that's all I've got to say about myself. Oh wait!
+            I would love to one day have a pet turtle like the image below. </p>
+        <a href="https://www.njit.edu"> Click Here For More About NJIT </a>
+        <img src="https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTk2OTY2NzAwMDk5MzE1MzQw/pet-turtle-or-tortoise.png" alt="Fun Fact: I want a pet turtle.">
+ <div>
+
+    <table>
+        <tr>
+            <th>Education</th>
+            <th>Experience</th>
+            <th>Skills</th>
+        </tr>
+        <tr>
+            <td>MS#4</td>
+            <td>McNair High Shcool</td>
+            <td>NJIT</td>
+        </tr>
+        <tr>
+            <td>Ice Cream Shop Worker</td>
+            <td>Library Assistant</td>
+            <td>Tutor</td>
+        </tr>
+    </tr>
+    <tr>
+        <td>Design</td>
+        <td>Quick Reader</td>
+        <td>Responsible</td>
+    </tr>
+    </table>
+</div>
+
+<div>
+    <br>
+    <h1>Random Coding Know-how</h1>
+    <form>
+        <label for="Username">Username</label>
+        <input type="text" placeholder="Username"> <br>
+        
+        <label for="f.name">First Name</label>
+        <input type="text" placeholder="First Name"><br>
+
+        <label for="l.name">Last Name</label>
+        <input type="text" placeholder="Last Name"> <br>
+
+        <label for="email">Email</label>
+        <input type="email" placeholder="Email"> <br>
+
+        <input type="checkbox" name="math"> Math 
+        <input type="checkbox" name="architecture"> Architecture 
+        <input type="checkbox" name="Computer Science"> Computer Science <br>
+        
+        <input type="radio" name="math"> Math 
+        <input type="radio" name="architecture"> Architecture 
+        <input type="radio" name="Computer Science"> Computer Science <br>
+
+        <input type="submit">
+    </form>
+</div>
+
+<div>
+    <h1>Courses I'm Taking this Semester</h1>
+    <ul>
+        <li>Computer Programing and Application</li>
+        <li>Arch 195</li>
+        <li>Arch 110</li>
+        <li>Math 107</li>
+        <li>English 102</li>
+        <li>First Year Seminar</li>
+    </ul>
+</div>
+
+
+<div>
+    <img src="https://www.dolphinsandyou.com/wp-content/uploads/SeaTurtleBeachBabies.jpg" class="img1">
+    <img src= "https://www.cnet.com/a/img/resize/79e8ede819ff1c8137383d8d530e27b28507b0e7/hub/2020/06/11/03bf034d-1439-4d6a-bd4a-cd6e6ae26ee1/gettyimages-1145422609.jpg?auto=webp&fit=crop&height=900&width=1200" class="img2">
+    <img src="https://www.popsci.com/uploads/2019/03/18/7MRDL2F4JOBNZXZ4ZWWWPUWJ2I.jpg?auto=webp&width=785&height=637.0458984375"class="img3">
+</div>
+
+<p class="para">
+    Hello! This is my paragraph about paragraphs. They're great things, that inform you about a whole bunch of stuff.
+</p>
+
+<ul>
+    <li><a class="turtlelink1" href="https://en.wikipedia.org/wiki/Turtle">Turtle Website #1</a> </li>
+    <li><a class="turtlelink2" href="https://www.worldwildlife.org/species/sea-turtle">Turtle Website #2</a> </li>
+    <li><a class="turtlelink3" href="https://www.doi.gov/blog/13-turtle-ly-awesome-photos-world-turtle-day">Turtle Website #3</a> </li>
+</ul>
+
+    </body>
+</html>
