@@ -1,0 +1,56 @@
+th { 
+    background-color: lightgray;
+}    
+
+table, th, td {
+    border:2px solid rgb(0, 0, 0);
+}
+
+th, td {
+    padding: 10;
+}   
+
+table {
+    margin: 100, 100, 100, 100;
+}
+
+.img1 {
+    border: 5px dashed red;
+    padding: 30px;
+    height: 150%;
+    width: 150%;
+  }
+
+.img2 {
+    border: 5px dashed red;
+    padding: 30px;
+    height: 150in;
+    width: 150in;
+  }
+
+.img3 {
+  border: 5px dashed red;
+  padding: 30px;
+  height: 150pt;
+  width: 150pt;
+}
+
+.para {
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 25px
+}
+
+.turtlelink1:hover{
+background-color: red;
+} 
+
+.turtlelink2:visited{
+background-color: gray;
+} 
+
+.turtlelink3:active{
+background-color: orange;
+} 
